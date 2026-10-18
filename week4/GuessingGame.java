@@ -70,3 +70,4 @@ System.out.println("You took " + attempts + " attempt(s).");
 // Close the scanner to free resources.
 scanner.close();}
 }
+
